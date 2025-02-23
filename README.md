@@ -1,6 +1,5 @@
 
 ---
-## Created By SaadFahmi
 This `README.md` includes:
 - **Project structure**.
 - **Setup & compilation instructions** for **Windows & Linux**.
